@@ -19,7 +19,7 @@ but once complete would utilize a queue to implement Breadth First Search (BFS).
 -----TO RUN THE PROGRAM-----
 Type "make" to compile the program. Then type ./project4 in order to start it up. 
 
-Typing "make clean" will clean up the object files generated during coimpilation.
+Typing "make clean" will clean up the object files generated during compilation.
 
 -----USING THE PROGRAM-----
 The program will ask for a text file (including the .txt extension) receive data from this file and insert
