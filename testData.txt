@@ -1,0 +1,6 @@
+Insert 1 Parent 1 Marriage 2
+Insert 2 Parent 2 Marriage 0
+Family 1 Husband 0 Wife 0 Child 1
+Family 2 Husband 1 Wife 0 Child 2
+Check
+Relate 1 2
